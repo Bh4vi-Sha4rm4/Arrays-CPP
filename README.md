@@ -1,2 +1,2 @@
 # Arrays-CPP
-common cpp array coding problem solutions.
+common cpp array coding problem solution.
